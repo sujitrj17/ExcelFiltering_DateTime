@@ -1,0 +1,4 @@
+cd /var/DataBaseDeletion
+
+java -cp bin:/var/DataBaseDeletion/postgresql-9.1-901.jdbc4.jar com.sumasoft.statusreport.DataBaseFolderDeletionAction 
+
