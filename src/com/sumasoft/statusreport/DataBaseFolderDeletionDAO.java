@@ -1158,6 +1158,7 @@ public class DataBaseFolderDeletionDAO
 							}
 						}
 						i++;
+						
 					}
 
 					return ListOf3WorkingDays;
